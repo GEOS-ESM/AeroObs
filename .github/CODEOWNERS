@@ -1,0 +1,12 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+# Order is important; the last matching pattern takes the most
+# precedence.
+
+# Everything in AeroObs should be owned by the AeroObs Team
+* @GEOS-ESM/aeroobs-team
+
+# The CMake Team should know/approve these
+/.github/    @GEOS-ESM/cmake-team @amdasilva
+/.circleci/  @GEOS-ESM/cmake-team @amdasilva
+/.codebuild/ @GEOS-ESM/cmake-team @amdasilva
