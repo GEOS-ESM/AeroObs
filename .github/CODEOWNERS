@@ -7,6 +7,6 @@
 * @GEOS-ESM/aeroobs-team
 
 # The CMake Team should know/approve these
-/.github/    @GEOS-ESM/cmake-team @amdasilva
-/.circleci/  @GEOS-ESM/cmake-team @amdasilva
-/.codebuild/ @GEOS-ESM/cmake-team @amdasilva
+/.github/    @GEOS-ESM/cmake-team @GEOS-ESM/aeroobs-team
+/.circleci/  @GEOS-ESM/cmake-team @GEOS-ESM/aeroobs-team
+/.codebuild/ @GEOS-ESM/cmake-team @GEOS-ESM/aeroobs-team
